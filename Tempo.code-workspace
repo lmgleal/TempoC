@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"totvsLanguageServer.welcomePage": false,
+		"files.associations": {
+			"*.prw": "advpl",
+			"bubblesort.h": "c",
+			"time.h": "c",
+			"stdio.h": "c",
+			"string.h": "c",
+			"proximo.h": "c"
+		}
+	}
+}
